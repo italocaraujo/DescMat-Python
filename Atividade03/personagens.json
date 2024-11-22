@@ -1,0 +1,42 @@
+[
+  {
+      "nome": "Homem-Aranha",
+      "sexo": "masculino",
+      "animacao": true,
+      "superpoder": true,
+      "tipo": "herói",
+      "universo": "Marvel",
+      "idade": 18,
+      "protagonista": true
+  },
+  {
+      "nome": "Batman",
+      "sexo": "masculino",
+      "animacao": false,
+      "superpoder": false,
+      "tipo": "herói",
+      "universo": "DC",
+      "idade": 35,
+      "protagonista": true
+  },
+  {
+      "nome": "Mulher Maravilha",
+      "sexo": "feminino",
+      "animacao": true,
+      "superpoder": true,
+      "tipo": "herói",
+      "universo": "DC",
+      "idade": 28,
+      "protagonista": true
+  },
+  {
+      "nome": "SpongeBob",
+      "sexo": "masculino",
+      "animacao": true,
+      "superpoder": false,
+      "tipo": "animação",
+      "universo": "Nickelodeon",
+      "idade": 20,
+      "protagonista": true
+  }
+]
